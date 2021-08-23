@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 🤔 我希望我的github可以有很多⭐
+<img align="right" src="https://count.getloli.com/get/@:xs-web-lhdd?theme=rule34">
 
 **Languages and Tools:**  
 
