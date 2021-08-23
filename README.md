@@ -1,11 +1,6 @@
 
 ### Call me 凉风有信、😃
 
-<!--
-**xs-web-lhdd/xs-web-lhdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 我在河南理工大学上学
 - 🌱 我目前在学习如何成为大佬
 - 👯 希望结识更多的小伙伴
@@ -14,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 我的电话：17739229159
 - 😄 Pronouns: ...
 - ⚡ 我是个有趣的人哦~😃
--->
+
 
 
 
@@ -36,3 +31,11 @@ Here are some ideas to get you started:
 <a href="https://github.com/xs-web-lhdd">
   <img align="center" width="355" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xs-web-lhdd&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&layout=compact&theme=tokyonight&show_icons=true&hide_title=true" />
 </a>
+
+## Follow Me
+![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lhdd&color=green)
+[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/yexiyue)
+
+
+## GitHub Infos
+<img src="https://github-profile-trophy.vercel.app/?username=xs-web-lhdd&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
