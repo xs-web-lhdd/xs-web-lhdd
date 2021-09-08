@@ -34,7 +34,7 @@
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=xs-web-lhdd&color=green)
-[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/yexiyue)
+[![Github](https://img.shields.io/github/followers/xs-web-lhdd?label=Github&style=social)](https://github.com/xs-web-lhdd)
 
 
 ## GitHub Infos
